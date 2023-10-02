@@ -25,21 +25,25 @@ DNA2IMG: DNA to Image Converter
 ![dna2img](https://github.com/Ran2K-Creator/img2dna/assets/65309980/57b4d3bc-4ccd-484d-8939-bb2a711d4311)
 
 
-Dependencies
+<b>Dependencies</b>
 
     tkinter: Used for the GUI interface.
     Pillow (PIL): For image processing tasks.
     numpy: For array manipulations during the conversion process.
 
-Installation
+<b>Installation</b>
 
 pip3 install pillow numpy
 
-Running the Tools
+
+<b>Running the Tools</b>
 
 After installing the required dependencies, run the corresponding Python script for the desired converter.
 
 
-Credits
+
+
+
+<b>Credits</b>
 
 Developed by Ran Malamud.
