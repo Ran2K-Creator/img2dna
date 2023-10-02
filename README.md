@@ -1,4 +1,4 @@
-Image ⇄ DNA Converters
+<title>Image ⇄ DNA Converters</title>
 
 This repository contains two graphical tools for converting between grayscale images (PNG format) and synthetic DNA sequences.
 
