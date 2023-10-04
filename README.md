@@ -1,7 +1,7 @@
 <b>Image ⇄ DNA Converters</b>
 
 This repository contains two graphical tools for converting between grayscale images (PNG format) and synthetic DNA sequences.
-
+NOTICE: The tool is now closed source and is availble only as an .EXE program. 
 
 IMG2DNA: Image to DNA Converter
 
